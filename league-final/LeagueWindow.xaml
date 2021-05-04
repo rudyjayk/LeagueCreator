@@ -1,0 +1,25 @@
+﻿<Window x:Class="league_final.LeagueWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:league_final"
+        mc:Ignorable="d"
+        Title="LeagueWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="League ID" HorizontalAlignment="Left" Height="34" Margin="96,76,0,0" VerticalAlignment="Top" Width="111"/>
+        <Label Content="League Name" HorizontalAlignment="Left" Height="34" Margin="96,153,0,0" VerticalAlignment="Top" Width="111"/>
+        <Label Content="Sport ID" HorizontalAlignment="Left" Height="34" Margin="96,220,0,0" VerticalAlignment="Top" Width="111"/>
+        <Label Content="Number of Teams" HorizontalAlignment="Left" Height="34" Margin="96,306,0,0" VerticalAlignment="Top" Width="111"/>
+        <TextBox Name="textBox1" HorizontalAlignment="Left" Height="34" Margin="251,76,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="169"/>
+        <TextBox Name="textBox2" HorizontalAlignment="Left" Height="34" Margin="251,153,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="169"/>
+        <TextBox Name="textBox3" HorizontalAlignment="Left" Height="34" Margin="251,220,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="169"/>
+        <TextBox Name="textBox4"  HorizontalAlignment="Left" Height="34" Margin="251,306,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="169"/>
+        <Button Content="Insert" HorizontalAlignment="Left" Height="34" Margin="580,35,0,0" VerticalAlignment="Top" Width="146" Click="Insert_Click"/>
+        <Button Content="Retrieve" HorizontalAlignment="Left" Height="34" Margin="580,111,0,0" VerticalAlignment="Top" Width="146" Click="Retrieve_Click"/>
+        <Button Content="Update" HorizontalAlignment="Left" Height="34" Margin="580,198,0,0" VerticalAlignment="Top" Width="146" Click="Update_Click"/>
+        <Button Content="Delete" HorizontalAlignment="Left" Height="34" Margin="580,284,0,0" VerticalAlignment="Top" Width="146" Click="Delete_Click"/>
+        <Button Content="Delete All Elements" HorizontalAlignment="Left" Height="34" Margin="580,350,0,0" VerticalAlignment="Top" Width="146" Click="DeleteAll_Click"/>
+
+    </Grid>
+</Window>

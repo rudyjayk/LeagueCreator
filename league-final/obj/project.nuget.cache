@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gb7F4vxeFf0aCYGpbmRCFl3GHjrmpKbaS3PcFqMtBXYh9ksvCNtVNCOgbaotEg0PuXkKzeLd4kW/G70ZN3P+jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rudyj\\OneDrive\\Desktop\\league-up\\league-final\\league-final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rudyj\\.nuget\\packages\\firesharp\\1.1.0\\firesharp.1.1.0.nupkg.sha512",
+    "C:\\Users\\rudyj\\.nuget\\packages\\firesharp.serialization.jsonnet\\1.1.0\\firesharp.serialization.jsonnet.1.1.0.nupkg.sha512",
+    "C:\\Users\\rudyj\\.nuget\\packages\\google.api.commonprotos\\1.7.0\\google.api.commonprotos.1.7.0.nupkg.sha512",
+    "C:\\Users\\rudyj\\.nuget\\packages\\google.api.gax\\2.9.0\\google.api.gax.2.9.0.nupkg.sha512",
+    "C:\\Users\\rudyj\\.nuget\\packages\\google.api.gax.grpc\\2.9.0\\google.api.gax.grpc.2.9.0.nupkg.sha512",
+    "C:\\Users\\rudyj\\.nuget\\packages\\google.apis\\1.40.2\\google.apis.1.40.2.nupkg.sha512",
+    "C:\\Users\\rudyj\\.nuget\\packages\\google.apis.auth\\1.40.2\\google.apis.auth.1.40.2.nupkg.sha512",
+    "C:\\Users\\rudyj\\.nuget\\packages\\google.apis.core\\1.40.2\\google.apis.core.1.40.2.nupkg.sha512",
+    "C:\\Users\\rudyj\\.nuget\\packages\\google.cloud.firestore\\1.1.0-beta01\\google.cloud.firestore.1.1.0-beta01.nupkg.sha512",
+    "C:\\Users\\rudyj\\.nuget\\packages\\google.cloud.firestore.v1\\1.1.0-beta01\\google.cloud.firestore.v1.1.1.0-beta01.nupkg.sha512",
+    "C:\\Users\\rudyj\\.nuget\\packages\\google.longrunning\\1.1.0\\google.longrunning.1.1.0.nupkg.sha512",
+    "C:\\Users\\rudyj\\.nuget\\packages\\google.protobuf\\3.8.0\\google.protobuf.3.8.0.nupkg.sha512",
+    "C:\\Users\\rudyj\\.nuget\\packages\\grpc.auth\\1.22.0\\grpc.auth.1.22.0.nupkg.sha512",
+    "C:\\Users\\rudyj\\.nuget\\packages\\grpc.core\\1.22.0\\grpc.core.1.22.0.nupkg.sha512",
+    "C:\\Users\\rudyj\\.nuget\\packages\\grpc.core.api\\1.22.0\\grpc.core.api.1.22.0.nupkg.sha512",
+    "C:\\Users\\rudyj\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\rudyj\\.nuget\\packages\\restsharp\\104.4.0\\restsharp.104.4.0.nupkg.sha512",
+    "C:\\Users\\rudyj\\.nuget\\packages\\system.collections.immutable\\1.4.0\\system.collections.immutable.1.4.0.nupkg.sha512",
+    "C:\\Users\\rudyj\\.nuget\\packages\\system.interactive.async\\3.2.0\\system.interactive.async.3.2.0.nupkg.sha512",
+    "C:\\Users\\rudyj\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

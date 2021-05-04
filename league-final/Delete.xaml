@@ -1,0 +1,18 @@
+﻿<Window x:Class="league_final.Delete"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:league_final"
+        mc:Ignorable="d"
+        Title="Delete" Height="150" Width="350">
+    <Grid>
+        <Button Content="" HorizontalAlignment="Left" Margin="166,55,0,0" VerticalAlignment="Top" Width="99" Height="40" Click="Delete_Click" Loaded="btn_Load"/>
+        <TextBox Name="txt1" HorizontalAlignment="Left" Height="21" Margin="10,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="155" TextAlignment="Center"/>
+        <Label Content="ID" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="232,10,0,0" VerticalAlignment="Top" Height="21" Width="51" FontSize="10"/>
+        <Label Content="Node:" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Margin="10,55,0,0" VerticalAlignment="Top" Height="21" Width="113" FontSize="10" FontWeight="ExtraBold" FontStyle="Italic"/>
+        <Label Loaded="nodeLabel_load" Name="NodeLabel" Content="" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="10,76,0,0" VerticalAlignment="Top" Height="35" Width="113" FontSize="16" FontWeight="ExtraBold" FontStyle="Italic"/>
+
+        <Button Content="Home" HorizontalAlignment="Left" Margin="294,74,0,0" VerticalAlignment="Top" Width="40" Height="21" Click="Home_click"/>
+    </Grid>
+</Window>
